@@ -25,7 +25,7 @@
   "license": "MIT",
   "dependencies": {
     "@goodmind/telegram-tl-node": "^0.12.4",
-    "bigint-node": "1.0.4",
+    "bignum": "^0.12.5",
     "get-flow": "^0.3.0",
     "get-log": "^1.1.5",
     "jsbn": "0.0.0",
