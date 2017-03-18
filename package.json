@@ -1,5 +1,5 @@
 {
-  "name": "@goodmind/telegram-mt-node",
+  "name": "@wfjsw/telegram-mt-node",
   "version": "0.9.14",
   "description": "Telegram MTProto library",
   "publishConfig": {
@@ -14,10 +14,10 @@
     "library"
   ],
   "author": "Enrico Stara <enrico.stara@gmail.com>",
-  "homepage": "https://githubcom/goodmind/telegram-mt-node",
+  "homepage": "https://githubcom/wfjsw/telegram-mt-node",
   "repository": {
     "type": "git",
-    "url": "git://github.com/goodmind/telegram-mt-node.git"
+    "url": "git://github.com/wfjsw/telegram-mt-node.git"
   },
   "bugs": {
     "url": "https://github.com/goodmind/telegram-mt-node/issues"
